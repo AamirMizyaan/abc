@@ -1,2 +1,2 @@
 # abc
-print("Python:)
+print("Python")
